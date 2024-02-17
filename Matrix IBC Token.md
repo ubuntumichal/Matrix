@@ -2,6 +2,8 @@
 Matrix IBC Token on Coreum Mainnet 
 $Matrix
 
+11 Tokens Sent to Pulsara Treasury
+
 You Hold The Key to The Matrix, Keymaster...
 
 I have dreamed a dream. But now, that dream is gone from me.
