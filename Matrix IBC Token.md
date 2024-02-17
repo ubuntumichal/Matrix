@@ -1,5 +1,8 @@
 # Matrix
 Matrix IBC Token on Coreum Mainnet 
+
+https://dax.pulsara.io/tokens/neo1-core128hgt0nnt69a5wqtl3auryf37vg90c3k9rq7q6
+
 $Matrix
 
 11 Tokens Sent to Pulsara Treasury
